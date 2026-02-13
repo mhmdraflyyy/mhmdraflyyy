@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Rafli
 
 About Me:
-Informatics Engineering
+Informatics Engineering student with a focus on software development and robotics.
 
 
 
