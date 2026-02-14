@@ -12,6 +12,9 @@ Informatics Engineering student with a focus on software development and robotic
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
+<hr>
+
+<h3>GitHub Activity</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mhmdraflyyy&theme=neon&hide_border=false)<br/>
