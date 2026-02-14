@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There+%F0%9F%91%8B;I'm+Rafli" />
 </p>
 
-<hr>
-
 <h3 align="center">
 Informatics Engineering student with a focus on software development and robotics.
 </h3>
 
 <h2>Languages</h2>
+<hr>
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
