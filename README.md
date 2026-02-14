@@ -8,6 +8,14 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 <h3 align="center">Informatics Engineering student with a focus on software development and robotics.</h3>
 
 
+<h2 align="center">Languages</h2>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,python"/>
+    </a>
+</div>
+
 
 
 About Me:
