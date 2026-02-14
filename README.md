@@ -6,8 +6,9 @@
 Informatics Engineering student with a focus on software development and robotics.
 </h3>
 
-<h2>Languages</h2>
 <hr>
+
+<h2>Languages</h2>
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
