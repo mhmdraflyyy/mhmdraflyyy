@@ -12,7 +12,7 @@ Informatics Engineering student with a focus on software development and robotic
 
 <h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html" />
 
 <hr>
 
