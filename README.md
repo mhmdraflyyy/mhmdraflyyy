@@ -31,7 +31,8 @@ Informatics Engineering student with a focus on software development and robotic
 
 <div align="center">
   
-  ![snake gif](https://github.com/mhmdraflyyy/mhmdraflyyy/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/mhmdraflyyy/mhmdraflyyy/blob/output/github-snake-dark.svg?raw=true)
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
