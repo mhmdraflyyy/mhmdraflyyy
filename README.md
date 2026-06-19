@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-Informatics Engineering student with a focus on software development and robotics.
+Informatics Engineering Student at Universitas Negeri Surabaya.
 </h3>
 
 <hr>
@@ -18,9 +18,10 @@ Informatics Engineering student with a focus on software development and robotic
 
 <h3>GitHub Activity</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhmdraflyyy&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdraflyyy&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
