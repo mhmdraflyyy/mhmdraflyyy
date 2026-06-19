@@ -34,7 +34,7 @@ Informatics Engineering student with a focus on software development and robotic
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmdraflyyy/mhmdraflyyy/output/github-snake-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmdraflyyy/mhmdraflyyy/output/github-snake.svg?v=2">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mhmdraflyyy/mhmdraflyyy/output/github-snake.svg?v=2">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mhmdraflyyy/mhmdraflyyy/output/github-snake.svg?v=3">
   </picture>
 </div>
 
