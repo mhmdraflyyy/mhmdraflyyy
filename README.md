@@ -20,17 +20,25 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 
 <div align="center">
 
+<table>
+<tr>
 <td>
-  <img height="180em"
-       src="https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img height="180"
+src="https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=neon&include_all_commits=true&count_private=true"/>
+
 </td>
 
 <td>
-  <img height="180em"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&hide_border=false&layout=compact"/>
-</td>
 
-<img src="https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=neon&hide_border=false" />
+<img height="180"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&layout=compact&langs_count=8"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=neon"/>
 
 </div>
 
