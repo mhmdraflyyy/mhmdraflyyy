@@ -18,14 +18,14 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 
 <h3>GitHub Activity</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="41.5%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&hide_border=true&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdraflyyy&show_icons=true&theme=neon" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdraflyyy&layout=compact&theme=neon" height="170">
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=neon&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mhmdraflyyy&theme=neon" />
+</p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdraflyyy&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
