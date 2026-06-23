@@ -9,8 +9,15 @@
 Informatics Engineering Student at Universitas Negeri Surabaya.
 </h3>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <!-- <hr> -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3>Languages</h3>
 
