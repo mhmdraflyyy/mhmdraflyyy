@@ -3,18 +3,21 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There+%F0%9F%91%8B,+I'm+Rafli" />
 </h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3 align="center">
 Informatics Engineering Student at Universitas Negeri Surabaya.
 </h3>
 
-<hr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<!-- <hr> -->
 
 <h3>Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,html" />
 
-<hr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<!-- <hr> -->
 
 <h3>GitHub Activity</h3>
 
@@ -46,7 +49,8 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&t
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdraflyyy&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-<hr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<!-- <hr> -->
 <h3>GitHub Contributions<h3>
 <div align="center">
   <picture>
@@ -55,7 +59,8 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&t
     <img alt="github-snake" src="https://raw.githubusercontent.com/mhmdraflyyy/mhmdraflyyy/output/github-snake.svg?v=3">
   </picture>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 
-<hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
