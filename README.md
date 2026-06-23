@@ -23,13 +23,11 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+
 ![](https://github-contributor-stats.vercel.app/api?username=mhmdraflyyy&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=mhmdraflyyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<hr>
 
 <div align="center">
   <picture>
@@ -39,5 +37,6 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
   </picture>
 </div>
 
+<hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
