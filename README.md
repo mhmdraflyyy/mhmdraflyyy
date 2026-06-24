@@ -19,14 +19,14 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<h3>Languages</h3>
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,html" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <!-- <hr> -->
 
-<h3>GitHub Activity</h3>
+### GitHub Activity
 
 <div align="center">
 
