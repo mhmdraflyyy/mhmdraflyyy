@@ -35,25 +35,22 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 <td>
 
 <img height="180"
-src="https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=neon&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.shion.dev/api?username=mhmdraflyyy&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </td>
 
 <td>
 
 <img height="180"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=neon&layout=compact&langs_count=8"/>
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&theme=tokyonight&layout=compact&langs_count=8"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=neon"/>
+<img src="https://streak-stats.demolab.com/?user=mhmdraflyyy&theme=tokyonight"/>
 
 </div>
-
-
-![](https://github-contributor-stats.vercel.app/api?username=mhmdraflyyy&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
