@@ -21,7 +21,7 @@ Informatics Engineering Student at Universitas Negeri Surabaya.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <!-- <hr> -->
