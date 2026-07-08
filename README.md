@@ -52,7 +52,6 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&t
 
 </div>
 
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <!-- <hr> -->
 <h3>GitHub Contributions<h3>
@@ -66,5 +65,5 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhmdraflyyy&t
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
