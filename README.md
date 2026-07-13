@@ -7,13 +7,11 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 ⭐️ Feel free to **follow me** - I’d really appreciate your support!<br />
 
-<p align="left">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
-</p>
+<p align="left"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"></p>
 
 
 Thank you for visiting my page 🔥
 
 I hope you find something interesting here. If you have any feedback or ideas, I'd love to hear them.<br>
 
-[Instagram](https://www.instagram.com//mhmdraflyyy).
+[LinkedIn](https://www.linkedin.com/in/muhammad-rafli-5554b036a/) [Instagram](https://www.instagram.com//mhmdraflyyy)
