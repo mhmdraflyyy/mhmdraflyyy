@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 I'm an Informatics Engineering student at the State University of Surabaya. 🎓<br>
-I'm a beginner **Python developer** 🐍 and a **Linux** passionate about **web development** 🌐<br />
+I'm a beginner **Python developer** 🐍 and passionate about **web development** 🌐<br />
 I created this GitHub profile to gain experience and do what I love.<br />
 I’ll be happy to receive any **feedback** or **code reviews** that can help me improve 💪<br />
 
