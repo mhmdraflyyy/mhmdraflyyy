@@ -1,13 +1,13 @@
 # Hi there👋, I'm Rafli
 
-Undergraduate Informatics Engineering Student at **State University of Surabaya** 🎓<br>
+Undergraduate Informatics Engineering Student at **State University of Surabaya**<br>
 I'm a beginner **Python developer** 🐍 and passionate about **web development** 🌐<br />
-I created this GitHub profile to gain experience and do what I love.<br />
 I’ll be happy to receive any **feedback** or **code reviews** that can help me improve 💪<br />
+<!--I created this GitHub profile to gain experience and do what I love.<br /> -->
 
 ⭐️ Feel free to **follow me** - I’d really appreciate your support!<br />
 
-<p align="left"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"></p>
+<p align="left"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="235"></p>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 <!-- <p align="left">
