@@ -14,4 +14,8 @@ Thank you for visiting my page 🔥
 
 I hope you find something interesting here. If you have any feedback or ideas, I'd love to hear them.<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdraflyyy&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-5554b036a/) [Instagram](https://www.instagram.com//mhmdraflyyy)
