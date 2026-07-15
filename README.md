@@ -9,13 +9,12 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 <p align="left"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"></p>
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) <br/>
 
-Thank you for visiting my page 🔥
+<!-- <p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhmdraflyyy&layout=compact&langs_count=5&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="250" />
+</p> -->
 
+Thank you for visiting my page 🔥 <br>
 I hope you find something interesting here. If you have any feedback or ideas, I'd love to hear them.<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdraflyyy&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-5554b036a/) [Instagram](https://www.instagram.com//mhmdraflyyy)
