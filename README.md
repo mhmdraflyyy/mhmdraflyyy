@@ -18,4 +18,9 @@ Thank you for visiting my page 🔥 <br>
 I hope you find something interesting here.<br>
 If you have any feedback or ideas, I'd love to hear them.<br>
 <br>
-[LinkedIn](https://www.linkedin.com/in/muhammad-rafli-5554b036a/) [Instagram](https://www.instagram.com//mhmdraflyyy)
+
+
+<span>
+<a href="https://www.linkedin.com/in/muhammad-rafli-5554b036a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="mhmdraflyyy" height="50" width="100" /></a>
+</span>
+
